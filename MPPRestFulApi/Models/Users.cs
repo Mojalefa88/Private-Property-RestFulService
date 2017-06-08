@@ -12,6 +12,9 @@ namespace MPPRestFulApi.Models
         public string Phone { get; set; }
         public string Password { get; set; }
         public string ConfirmPassword { get; set; }
+
+        public string Passsword { get; set; }
+        public string PRasssword { get; set; }
         public bool Subscribe { get; set; }
         public string Status { get; set; }
         public string Reason { get; set; }
